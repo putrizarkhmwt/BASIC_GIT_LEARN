@@ -3,3 +3,4 @@ DAFTAR BELANJAAN :
 -   Telur 1Kg
 -   Tahu 10K
 -   Tempe 5K
+-   Tempe 10K
